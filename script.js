@@ -1,1 +1,1 @@
-console.log('Hello! It is my git-test')
+console.log('ЗДРАВСТВУЙТЕ! It is my git-test')
